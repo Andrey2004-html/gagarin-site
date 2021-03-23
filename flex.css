@@ -1,0 +1,58 @@
+#html, body {
+width: 100%;
+height: 100%;
+padding: 0;
+}
+
+.header_img {
+width: 100%;
+margin-top: 50px;
+}
+
+.middle_content {
+width: 100%;
+height: 100%;
+}
+
+.block_header {
+text-align: сenter;
+margin-left: 30px;
+}
+
+.some_image {
+width: 50%;
+height: 75%;
+margin-left: 190px;
+}
+
+.image_block {
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+background-color: #6495ED;
+}
+
+.grow_text {
+width: 100%;
+text-align: right;
+text-overflow: clip;
+margin-right: 50px;
+}
+
+
+.sky_block {
+background-color: White;
+}
+
+.button_wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+}
+
+.next_page_button {
+
+}
